@@ -1,8 +1,8 @@
 # ProgrammazioneDiSistema
 
 This course is organiszd in two parts: 
-- Part I (*internals*) :  deals with **internal operating system modules**, together with the main techniques and strategies for efficient **management of resources such as processors, memories, peripheral devices, files, etc.**
-- Part II (*system and concurrent programming*) :  introduces **system programming techniques**, within the framework of state-of-the-art operating systems, such as Unix/Linux and Windows. **Advances concurrend programming techniques** are introduced and used.
+- _Part I (*internals*)_ :  deals with **internal operating system modules**, together with the main techniques and strategies for efficient **management of resources such as processors, memories, peripheral devices, files, etc.**
+- _Part II (*system and concurrent programming*)_ :  introduces **system programming techniques**, within the framework of state-of-the-art operating systems, such as Unix/Linux and Windows. **Advances concurrend programming techniques** are introduced and used.
 
 ### Course topics
 Part I
