@@ -1,0 +1,1 @@
+/home/gabri/Polito/ii\ -\ Magistrale/0-repos/ProgrammazioneDiSistema/verifier_isbn/target/debug/verifier_isbn: /home/gabri/Polito/ii\ -\ Magistrale/0-repos/ProgrammazioneDiSistema/verifier_isbn/src/main.rs
